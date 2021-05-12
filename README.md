@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Pugazenthi-Robo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning AI & ML
+- 💞️ I’m looking to collaborate on Deep learning
+- 📫 How to reach me spugazenthi@gmail.com
 
 <!---
-Pugazenthi-Robo/Pugazenthi-Robo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+#91 7200521360
 --->
